@@ -1,4 +1,4 @@
-![BoseCondensate-Lab cover](assets/cover.png)
+![BoseCondensate-Lab cover](BoseCondensate-Lab%20cover.png)
 
 # BoseCondensate-Lab 🧊⚛️
 
